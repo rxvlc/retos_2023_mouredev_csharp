@@ -1,0 +1,8 @@
+C:\Repos\retos_2023_mouredev_csharp\47\obj\Debug\47.csproj.AssemblyReference.cache
+C:\Repos\retos_2023_mouredev_csharp\47\obj\Debug\47.csproj.SuggestedBindingRedirects.cache
+C:\Repos\retos_2023_mouredev_csharp\47\obj\Debug\47.csproj.CoreCompileInputs.cache
+C:\Repos\retos_2023_mouredev_csharp\47\bin\Debug\47.exe.config
+C:\Repos\retos_2023_mouredev_csharp\47\bin\Debug\47.exe
+C:\Repos\retos_2023_mouredev_csharp\47\bin\Debug\47.pdb
+C:\Repos\retos_2023_mouredev_csharp\47\obj\Debug\47.exe
+C:\Repos\retos_2023_mouredev_csharp\47\obj\Debug\47.pdb

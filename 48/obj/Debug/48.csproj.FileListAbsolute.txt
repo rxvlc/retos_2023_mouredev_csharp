@@ -1,0 +1,11 @@
+C:\Repos\retosDeProgramacion\48\obj\Debug\48.csproj.AssemblyReference.cache
+C:\Repos\retosDeProgramacion\48\obj\Debug\48.csproj.SuggestedBindingRedirects.cache
+C:\Repos\retosDeProgramacion\48\obj\Debug\48.csproj.CoreCompileInputs.cache
+C:\Repos\retosDeProgramacion\48\bin\Debug\48.exe.config
+C:\Repos\retosDeProgramacion\48\bin\Debug\48.exe
+C:\Repos\retosDeProgramacion\48\bin\Debug\48.pdb
+C:\Repos\retosDeProgramacion\48\bin\Debug\Octokit.dll
+C:\Repos\retosDeProgramacion\48\bin\Debug\Octokit.xml
+C:\Repos\retosDeProgramacion\48\obj\Debug\48.csproj.CopyComplete
+C:\Repos\retosDeProgramacion\48\obj\Debug\48.exe
+C:\Repos\retosDeProgramacion\48\obj\Debug\48.pdb
