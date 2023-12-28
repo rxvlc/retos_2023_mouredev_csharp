@@ -1,0 +1,8 @@
+C:\Users\rafan\Documents\R00\bin\Debug\R00.exe.config
+C:\Users\rafan\Documents\R00\bin\Debug\R00.exe
+C:\Users\rafan\Documents\R00\bin\Debug\R00.pdb
+C:\Users\rafan\Documents\R00\obj\Debug\R00.csproj.AssemblyReference.cache
+C:\Users\rafan\Documents\R00\obj\Debug\R00.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafan\Documents\R00\obj\Debug\R00.csproj.CoreCompileInputs.cache
+C:\Users\rafan\Documents\R00\obj\Debug\R00.exe
+C:\Users\rafan\Documents\R00\obj\Debug\R00.pdb
