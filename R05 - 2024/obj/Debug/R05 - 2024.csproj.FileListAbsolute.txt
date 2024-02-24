@@ -1,0 +1,8 @@
+C:\Repos\retos_2023_mouredev_csharp\R05 - 2024\bin\Debug\R05 - 2024.exe.config
+C:\Repos\retos_2023_mouredev_csharp\R05 - 2024\bin\Debug\R05 - 2024.exe
+C:\Repos\retos_2023_mouredev_csharp\R05 - 2024\bin\Debug\R05 - 2024.pdb
+C:\Repos\retos_2023_mouredev_csharp\R05 - 2024\obj\Debug\R05 - 2024.csproj.AssemblyReference.cache
+C:\Repos\retos_2023_mouredev_csharp\R05 - 2024\obj\Debug\R05 - 2024.csproj.SuggestedBindingRedirects.cache
+C:\Repos\retos_2023_mouredev_csharp\R05 - 2024\obj\Debug\R05 - 2024.csproj.CoreCompileInputs.cache
+C:\Repos\retos_2023_mouredev_csharp\R05 - 2024\obj\Debug\R05 - 2024.exe
+C:\Repos\retos_2023_mouredev_csharp\R05 - 2024\obj\Debug\R05 - 2024.pdb
